@@ -22,9 +22,9 @@ year = {2022}
 ```
 ## Work done at [SketchX Lab](http://sketchx.ai/), CVSSP, University of Surrey. 
 
-# Please check our others papers appearing in CVPR-2022 
-a) Noise Tolerant SBIR
-
-b) Partial SBIR
-
-c) Sketch3T: Test-Time Training for Zero-Shot SBIR 
+## Please check our other papers appearing in CVPR-2022 
+```
+* Noise Tolerant SBIR
+* Partial SBIR
+* Sketch3T: Test-Time Training for Zero-Shot SBIR
+```

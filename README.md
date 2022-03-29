@@ -24,5 +24,7 @@ year = {2022}
 
 # Please check our others papers appearing in CVPR-2022 
 a) Noise Tolerant SBIR
+
 b) Partial SBIR
+
 c) Sketch3T: Test-Time Training for Zero-Shot SBIR 

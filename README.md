@@ -1,7 +1,6 @@
 # Doodle It Yourself: Class Incremental Learning by Drawing a Few Sketches, CVPR 2022.
 **Ayan Kumar Bhunia**, Viswanatha Reddy Gajjala, Subhadeep Koley, Rohit Kundu, Aneeshan Sain, Tao Xiang , Yi-Zhe Song, “Doodle It Yourself: Class Incremental Learning by Drawing a Few Sketches”, IEEE Conf. on Computer Vision and Pattern Recognition (**CVPR**), 2022.
 
-*Code coming soon ....*
 
 
 ## Abstract
